@@ -490,7 +490,7 @@ jet_data = {
     "windowColor": "#2c0576",
     "containerColor": "#FFFFFF",
     "innerWindowColor": "#E8FBFF",
-    "bannerImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/newscms/2018_40/2587036/181001-donald-trump-roger-stone-1999-ac-1041p.jpg",
+    "bannerImageUrl": "https://thehill.com/wp-content/uploads/sites/2/2015/08/trumpventura.jpg",
     "backgroundImageUrl": "https://i.guim.co.uk/img/media/cc34c6a718355ca3655179d83b62b01f467bd628/0_62_2810_1686/master/2810.jpg?width=700&quality=85&auto=format&fit=max&s=7ee5eafbe1b176eda169e53daec5c4db",
     "endingTextColor": "#fbf9f9",
     "customQuote": "\"Fight for the America We Deserve\"",
