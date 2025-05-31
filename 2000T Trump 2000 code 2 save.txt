@@ -9370,7 +9370,8 @@ endingPicker = (out, totv, aa, quickstats) => {
         setImage("https://i.insider.com/5b637af042e1cc4cd94ea1b9?width=700");
         return `<h3>BOMBSHELL: Globalists ADMIT to SABOTAGING Reform Party (Full Report)</h3>
 <p>Infowars
-<p>5.23 Million Subscribers
+<p>5.23M Subscribers
+<p>10.57M views 3 years ago  
 <p>Transcript:
 <p>[0.00] "Folks… tonight, we're going deep. This is not a drill. The sabotage of the Reform Party wasn’t an accident. It was a coordinated takedown."
 <p>[0.19] [Cut to 2000 Trump campaign rally footage] “When Donald Trump ran for president in 2000, many thought it was a publicity stunt. But what if I told you it was a setup from the start?”
